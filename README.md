@@ -64,10 +64,10 @@ Explicar la información relevante por medio de un dashboard en Tableau
 
 ● Todos los graficos son interctivos entre si y se puede filtrar por cada uno de ellos
 
-![comp](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico1.png)
-![marca](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico2.png)
-![ubi](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico3.png)
-![hist](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico4.png)
+![comp](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/completo.png)
+![marca](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/marca.png)
+![ubi](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/precio.png)
+![hist](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/ubicacion.png)
 
 * En periodo de Marzo 2017 tuvimos nuestra ganancia mas alta con mas de 9M de pesos mxn.
 * Filtrando por la ubicacion de Florencia tambien tenemos una ganancia de 9M de pesos mxn.
