@@ -46,17 +46,24 @@ Explicar la información relevante por medio de un dashboard en Tableau
 
 
 ● Con los 3 datasets disponibles cree un dashboards de compra/venta de los autos de Enero 2017 a Mayo 2017
+
 ● El dashboard contiene Precio de compra que es la Suma de todas la compras hechas en el periodo (la inversion inicial con IVA)
+
 ● Ventas con Iva es la Suma de todas las ventas hechas en el periodo
+
 ● Ganancia es la cantidad en millones de pesos mxn que obtuvimos de ganancia en ese periodo
+
 ● ROI es nuestro Retorno de Inversion de ese periodo (SUM(ventas)-SUM(compras))/SUM(compras)
+
 ● Existen 4 graficos 
-![Comparacion](https://github.com/DavidCis/Final-project/blob/master/Images/ar.png)
-![Marca](https://github.com/DavidCis/Final-project/blob/master/Images/ar.png)
-![Ubicacion](https://github.com/DavidCis/Final-project/blob/master/Images/ar.png)
-![Cnatidad](https://github.com/DavidCis/Final-project/blob/master/Images/ar.png)
+
+![Comparacion](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico1.png)
+![Marca](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico2.png)
+![Ubicacion](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico3.png)
+![Cnatidad](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico4.png)
 
 ● Todos los graficos son interctivos entre si y se puede filtrar por cada uno de ellos
+
 ![comp](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico1.png)
 ![marca](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico2.png)
 ![ubi](https://github.com/DavidCis/Prueba_Kavak/blob/main/Tableau/grafico3.png)
